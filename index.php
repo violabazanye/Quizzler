@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>BudgetWise</title>
+		<title>Quizzler</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -29,10 +29,9 @@
 			<nav id="nav">
 				<ul class="container">
 					<li><a href="#top">Home</a></li>
-					<li><a href="#work">Features</a></li>
 				<!--	<li><a href="#portfolio">ScreenShots</a></li>-->
 					<li><a href="#contact">Contact</a></li>
-					<li><a href="BudgetWise - Privacy policy.pdf">Privacy policy</a></li>
+					<li><a href="Quizzler - Privacy policy.pdf">Privacy policy</a></li>
 				</ul>
 			</nav>
 
